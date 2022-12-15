@@ -81,14 +81,14 @@
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"occupationPoint": {
- 	 	 	 	"trans": "Controle em Shangri-La",
+ 	 	 	 	"trans": "Controle de Shangri-La",
  	 	 	 	"eng": "Control over Shangri-la"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Data da próxima manutenção: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Próxima data de manutenção: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -128,7 +128,7 @@
  	 	 	"colors": {
  	 	 	 	"win": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Descodificação bem sucedida",
+ 	 	 	 	 	 	"trans": "Decodificação bem sucedida",
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -137,12 +137,12 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado colorido, você deve ser capaz de desbloqueá-lo com a sequência correta de cores.",
+ 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado colorido, você deve ser capaz de desbloqueá-la com a sequência correta de cores.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Desbloquear progresso",
+ 	 	 	 	 	 	"trans": "Progresso do desbloqueio",
  	 	 	 	 	 	"eng": "Unlock progress"
  	 	 	 	 	}
  	 	 	 	},
@@ -156,7 +156,7 @@
  	 	 	 	},
  	 	 	 	"lose": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Descodificação falhou",
+ 	 	 	 	 	 	"trans": "Decodificação falhou",
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -280,7 +280,7 @@
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Código PIN necessário para desbloquear",
+ 	 	 	 	"trans": "Código PIN necessário para destrancar",
  	 	 	 	"eng": "Pin code required to unlock"
  	 	 	},
  	 	 	"inputLabel": {
@@ -294,11 +294,11 @@
  	 	},
  	 	"chat": {
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "Reestabelecendo a conexão",
+ 	 	 	 	"trans": "Reestabelecendo conexão",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"notAtBottom": {
- 	 	 	 	"trans": "Você está olhando para mensagens antigas",
+ 	 	 	 	"trans": "Você está vendo mensagens antigas",
  	 	 	 	"eng": "You are looking at old messages"
  	 	 	},
  	 	 	"replyTo": {
@@ -358,7 +358,7 @@
  	 	 	 	 	"eng": "Chat exploit is in effect, all message sent will be altered. use ${vpnName} to secure your connection!"
  	 	 	 	},
  	 	 	 	"activateVPN": {
- 	 	 	 	 	"trans": "Ative a VPN",
+ 	 	 	 	 	"trans": "Ativar VPN",
  	 	 	 	 	"eng": "Activate VPN"
  	 	 	 	}
  	 	 	},
@@ -371,7 +371,7 @@
  	 	 	 	 	"eng": "${name} is about to run out in a few seconds!"
  	 	 	 	},
  	 	 	 	"refresh": {
- 	 	 	 	 	"trans": "Atualize agora",
+ 	 	 	 	 	"trans": "Atualizar agora",
  	 	 	 	 	"eng": "Refresh Now"
  	 	 	 	}
  	 	 	}
@@ -440,7 +440,7 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Baixa classificação de impressão",
+ 	 	 	 	 	"trans": "Classificação de impressão baixa",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
@@ -516,7 +516,7 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Avanço global (${timeSkipMinutes} min, custa ${timeSkipCost} Units)",
+ 	 	 	 	 	"trans": "Avanço global (${timeSkipMinutes} min, custa ${timeSkipCost} Unidades)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -642,7 +642,7 @@
  	 	"itemDisplay": {
  	 	 	"broken": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Defeituoso",
+ 	 	 	 	 	"trans": "Mau funcionamento",
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"instruction": {
@@ -651,14 +651,14 @@
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Atualizações",
+ 	 	 	 	"trans": "Slot de atualização ${index}",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
  	 	 	 	]
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AoE] Área de efeito, o efeito deste item aplicará aliados em combate com você.",
+ 	 	 	 	"trans": "[AoE] Área de efeito, o efeito deste item aplicará a aliados em combate com você.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -682,7 +682,7 @@
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "Trancar",
+ 	 	 	 	"trans": "Bloquear",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"lockDescription": {
@@ -705,14 +705,14 @@
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
  	 	 	},
  	 	 	"openContainer": {
- 	 	 	 	"trans": "Desbloquear Cofre",
+ 	 	 	 	"trans": "Desbloquear Contêiner",
  	 	 	 	"eng": "Unlock Container"
  	 	 	},
  	 	 	"cantOpenContainerNotIdle": {
  	 	 	 	"vars": [
  	 	 	 	 	"currentAction"
  	 	 	 	],
- 	 	 	 	"trans": "Você desbloqueia cofres enquanto ${currentAction}",
+ 	 	 	 	"trans": "Você desbloqueia contêineres enquanto ${currentAction}",
  	 	 	 	"eng": "You unlock containers while ${currentAction}"
  	 	 	}
  	 	},
@@ -729,7 +729,7 @@
  	 	 	},
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
- 	 	 	 	 	"trans": "Fazer isso irá redefinir toda a calibração do seu item, também irá torná-lo comercializável novamente. \n       Tem certeza de que quer prosseguir?",
+ 	 	 	 	 	"trans": "Fazer isso irá redefinir toda a calibração do seu item, também irá torná-lo comercializável novamente. \r\n       Tem certeza de que quer prosseguir?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \r\n      Are you sure you want to proceed?"
  	 	 	 	},
  	 	 	 	"trans": "Restauração de Fábrica",
@@ -737,7 +737,7 @@
  	 	 	},
  	 	 	"noItem": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Você não tem mais este item",
+ 	 	 	 	 	"trans": "Você não possui mais este item",
  	 	 	 	 	"eng": "You no longer have this item"
  	 	 	 	},
  	 	 	 	"description": {
@@ -781,7 +781,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Mais interactáveis podem ser desbloqueados neste local, aumente seu nível para desbloqueá-los.",
+ 	 	 	 	"trans": "${hiddenCount} Mais interacionáveis podem ser desbloqueados neste local, aumente seu nível para desbloqueá-los.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -798,12 +798,12 @@
  	 	 	 	"vars": [
  	 	 	 	 	"repairFee"
  	 	 	 	],
- 	 	 	 	"trans": "Reparar todos os items por (${repairFee} bitcoin)",
+ 	 	 	 	"trans": "Reparar todos os itens por (${repairFee} bitcoin)",
  	 	 	 	"eng": " Repair all items for (${repairFee} Bitcoin)"
  	 	 	},
  	 	 	"unlockContainerButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Desbloquear Cofre",
+ 	 	 	 	 	"trans": "Desbloquear Contêiner",
  	 	 	 	 	"eng": "Unlock Container"
  	 	 	 	}
  	 	 	},
@@ -824,7 +824,7 @@
  	 	 	},
  	 	 	"buyUnit": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Comprar Unit",
+ 	 	 	 	 	"trans": "Comprar Unidade",
  	 	 	 	 	"eng": "Buy Unit"
  	 	 	 	}
  	 	 	}
@@ -986,7 +986,7 @@
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Sem erros detectados",
+ 	 	 	 	 	"trans": "Nenhum erro detectado",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
